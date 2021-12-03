@@ -13,7 +13,7 @@ stocks_site_array = [
   { site_name: "finviz.com", url: "https://finviz.com/quote.ashx?t=" },
   { site_name: "seekingalpha.com", url: "https://seekingalpha.com/symbol/" },
   { site_name: "gurufocus.com", url: "https://www.gurufocus.com/stock/" },
-  { site_name: "tipranks.com", url: "https://www.tipranks.com/stock/" },
+  { site_name: "tipranks.com", url: "https://www.tipranks.com/stocks/" },
   { site_name: "openinsider.com", url: "http://www.openinsider.com/search?q=" },
   { site_name: "wsj.com", url: "https://www.wsj.com/market-data/quotes/" },
 ];
