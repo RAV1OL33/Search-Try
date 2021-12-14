@@ -9,7 +9,7 @@ etf_site_array = [
   { site_name: "etfrc.com", url: "https://www.etfrc.com/" },
   { site_name: "wsj.com", url: "https://www.wsj.com/market-data/quotes/" },
   { site_name: "money.cnn.com", url: "https://money.cnn.com/quote/forecast/forecast.html?symb=" },
-  { site_name: "finance.yahoo.com", url: "https://finance.yahoo.com/quote/JPM/analysis?p=" },
+  { site_name: "finance.yahoo.com", url: "https://finance.yahoo.com/quote/" },
 ];
 stocks_site_array = [
   { site_name: "finviz.com", url: "https://finviz.com/quote.ashx?t=" },
@@ -19,7 +19,7 @@ stocks_site_array = [
   { site_name: "openinsider.com", url: "http://www.openinsider.com/search?q=" },
   { site_name: "wsj.com", url: "https://www.wsj.com/market-data/quotes/" },
   { site_name: "money.cnn.com", url: "https://money.cnn.com/quote/forecast/forecast.html?symb=" },
-  { site_name: "finance.yahoo.com", url: "https://finance.yahoo.com/quote/JPM" },
+  { site_name: "finance.yahoo.com", url: "https://finance.yahoo.com/quote/" },
 ];
 function updateSearchResults(input_text) {
   //console.log(input_text.value)
